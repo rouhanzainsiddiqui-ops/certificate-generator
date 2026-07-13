@@ -1,20 +1,75 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+# 🎓 Certificate Generator Pro
+
+### ✨ Create stunning certificates in seconds.
+
+**Modern • Responsive • Offline • Bulk Generator 🚀**
+
+<img src="./assets/banner.png" width="100%" alt="Certificate Generator Pro Banner"/>
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Offline Ready](https://img.shields.io/badge/Offline-Ready-22C55E?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Mobile-Friendly-6366F1?style=for-the-badge)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/dabd2f63-3f59-466e-8e12-5c3548d11d44
+🎨 Custom Certificate Templates
 
-## Run Locally
+🖋️ Transparent Signature Upload
 
-**Prerequisites:**  Node.js
+🏢 Organization Logo Support
 
+📄 Live Certificate Preview
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📦 Bulk Generation (CSV / Excel)
+
+📥 Export as **PNG • JPG • PDF • ZIP**
+
+🌙 Dark & Light Mode
+
+📱 Fully Responsive
+
+💾 Works Completely Offline
+
+---
+
+## 🚀 Live Demo
+
+🌐 **Certificate Generator Pro**
+
+👉 **https://rouhanzainsiddiqui-ops.github.io/certificate-generator/**
+
+---
+
+## 🛠️ Built With
+
+`HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `GSAP` • `AOS`
+
+---
+
+## 👨‍💻 Developer
+
+**Rouhan Zain Siddiqui**
+
+🐙 GitHub → **https://github.com/rouhanzainsiddiqui-ops**
+
+---
+
+<div align="center">
+
+### ⭐ Like this project?
+
+**Leave a ⭐ on GitHub — it means a lot!**
+
+Made with ❤️, ☕ & late-night debugging.
+
+</div>
